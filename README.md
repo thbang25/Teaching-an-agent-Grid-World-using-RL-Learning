@@ -14,4 +14,8 @@ There are four files in the repository:
 
 To run the program for a specific scenario, execute the corresponding Python file (`Scenario1.py`, `Scenario2.py`, or `Scenario3.py`). Ensure all necessary files (`FourRooms.py`) are in the same directory.
 
-For example, you can use make file compilation or run each program individually using `Python Scenario1.py`.
+For example, you can use make file compilation, `make run SCENARIO=Scenario1` to run each scenario.
+
+for the virtual enviroment you need to have access to run it so cant test it fully.
+
+or run each program individually using `Python Scenario1.py`.
